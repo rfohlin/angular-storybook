@@ -1,0 +1,13 @@
+button {
+  background: #e7e7e7;
+  height: 44px;
+  box-sizing: border-box;
+  padding: 10px 20px 10px 20px;
+  border: none;
+  font-size: 16px;
+
+  &:hover {
+    cursor: pointer;
+    background: #d5d5d5;
+  }
+}
